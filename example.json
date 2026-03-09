@@ -1,0 +1,10 @@
+[
+  {
+    "page_url": "https://example.com",
+    "title": "Example Domain",
+    "meta_description": "",
+    "h1": "Example Domain",
+    "page_html": "<html lang=\"en\"><head><title></title><meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"/><style></style></head><body><div><h1></h1><p></p><p><a href=\"https://iana.org/domains/example\"></a></p></div></body></html>",
+    "internal_links": []
+  }
+]
